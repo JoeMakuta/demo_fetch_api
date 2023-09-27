@@ -1,3 +1,4 @@
 const a = [1, 2, 3, 4, 5];
-b = a;
-console.log(b);
+
+c = a + "h";
+console.log(c, "Conflit");
